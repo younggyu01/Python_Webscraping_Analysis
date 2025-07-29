@@ -1,4 +1,4 @@
-# streamlit run streamlit_basic.py
+#streamlit run streamlit_basic.py
 
 import streamlit as st
 import pandas as pd
